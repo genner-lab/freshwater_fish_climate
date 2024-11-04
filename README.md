@@ -1,4 +1,4 @@
-10.5281/zenodo.14037251
+[![DOI](https://zenodo.org/badge/858212977.svg)](https://doi.org/10.5281/zenodo.14037296)
 
 # Freshwater fish climate responses
 
