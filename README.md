@@ -4,7 +4,8 @@
 
 Freshwater fish abundance responses to climate change paper
 
-Data and code for Brown et al. "Climate warming drives population trajectories of freshwater fish"
+Data and code for Brown et al. (2024) "Climate warming drives population trajectories of freshwater fish" 
+Proc. Natl. Acad. Sci. USA 121:e2410355121. 
 
 
 ***
